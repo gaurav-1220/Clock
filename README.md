@@ -64,10 +64,6 @@ The easiest way to run this project is by using Python's built-in web server.
         ```bash
         python -m http.server
         ```
-    *   If you have an older version of Python 2:
-        ```bash
-        python -m SimpleHTTPServer
-        ```
 
 4.  **Open the project in your browser:**
     *   Navigate to **[http://localhost:8000/html.html](http://localhost:8000/html.html)**
